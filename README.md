@@ -106,10 +106,3 @@ Feel free to contribute by forking the repository, making changes, and submittin
 
 
 
-Instructions for Use:
-Copy the entire block of text above (including the backticks).
-Open your project repository on GitHub.
-Create a new file named README.md.
-Paste the copied text into the README.md file.
-Save the file.
-This will create a well-structured and informative README for your Cotton Plant Disease Prediction project!
